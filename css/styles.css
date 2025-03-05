@@ -2,7 +2,7 @@
 
 body {
 
-  background-img: ("../figuras/fondoo.png");
+  background-img: url("/figuras/fondoo.png");
   background-size: cover; 
   background-repeat: repeat-y; 
 }
