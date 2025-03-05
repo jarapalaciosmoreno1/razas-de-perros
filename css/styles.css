@@ -2,10 +2,9 @@
 
 body {
 
-  background-image: url("../figuras/fondo.png");
+  background-img: url("../figuras/fondoo.png");
   background-repeat: repeat-y; 
-    background-img: url("../figuras/fondo.png");
-        background-size: cover  
+  background-size: cover  
 }
 
 /*Creamos la clase 'center' de forma que podamos centrar, por ejemplo, las tablas de nuestras páginas*/
