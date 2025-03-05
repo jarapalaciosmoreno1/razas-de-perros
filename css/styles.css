@@ -2,7 +2,7 @@
 
 body {
 
-  background-img: url("../figuras/fondoo.png");
+  background-img: ("../figuras/fondoo.png");
   background-size: cover; 
   background-repeat: repeat-y; 
 }
@@ -53,8 +53,7 @@ figcaption {text-align: center;}
 
 /*Le damos formato a las imágenes*/
 img {
-  background-img: url("../figuras/fondoo.png");
-  background-size: cover; 
+  
   display: block;
   width: 100px;
   height: 100px;
