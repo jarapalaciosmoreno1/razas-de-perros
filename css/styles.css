@@ -1,12 +1,12 @@
 /*Colocamos una imagen de fondo al 'body' de nuestras páginas*/
-
+</style>
 body {
 
   background-img: url("../figuras/fondoo.png");
   background-size: cover; 
- 
+  background-repeat: repeat-y; 
 }
-
+</style>
 /*Creamos la clase 'center' de forma que podamos centrar, por ejemplo, las tablas de nuestras páginas*/
 
 .center{
