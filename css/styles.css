@@ -2,7 +2,7 @@
 
 body {
 
-  background-img: url("../figuras/fondoo.png");
+  imagen-de-fondo: url(.. /figuras/fondoo.png);
   background-size: cover; 
 }
 
